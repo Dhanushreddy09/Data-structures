@@ -1,0 +1,16 @@
+E:\.NET\DivisorSum\obj\Debug\net5.0\DivisorSum.csprojAssemblyReference.cache
+E:\.NET\DivisorSum\obj\Debug\net5.0\DivisorSum.GeneratedMSBuildEditorConfig.editorconfig
+E:\.NET\DivisorSum\obj\Debug\net5.0\DivisorSum.AssemblyInfoInputs.cache
+E:\.NET\DivisorSum\obj\Debug\net5.0\DivisorSum.AssemblyInfo.cs
+E:\.NET\DivisorSum\obj\Debug\net5.0\DivisorSum.csproj.CoreCompileInputs.cache
+E:\.NET\DivisorSum\bin\Debug\net5.0\DivisorSum.exe
+E:\.NET\DivisorSum\bin\Debug\net5.0\DivisorSum.deps.json
+E:\.NET\DivisorSum\bin\Debug\net5.0\DivisorSum.runtimeconfig.json
+E:\.NET\DivisorSum\bin\Debug\net5.0\DivisorSum.runtimeconfig.dev.json
+E:\.NET\DivisorSum\bin\Debug\net5.0\DivisorSum.dll
+E:\.NET\DivisorSum\bin\Debug\net5.0\ref\DivisorSum.dll
+E:\.NET\DivisorSum\bin\Debug\net5.0\DivisorSum.pdb
+E:\.NET\DivisorSum\obj\Debug\net5.0\DivisorSum.dll
+E:\.NET\DivisorSum\obj\Debug\net5.0\ref\DivisorSum.dll
+E:\.NET\DivisorSum\obj\Debug\net5.0\DivisorSum.pdb
+E:\.NET\DivisorSum\obj\Debug\net5.0\DivisorSum.genruntimeconfig.cache

@@ -15,7 +15,7 @@ namespace factorial
                 if(num<0){
                     throw new ArgumentException("factorial cannot be calculated for numbers less than zero");
                 }
-           return num==0?1:num*factorial(num-1);
+        return num==0?1:num*factorial(num-1);           
             }
         }
     }
