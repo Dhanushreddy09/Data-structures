@@ -1,0 +1,16 @@
+E:\.NET\EucledeanGCD\obj\Debug\net5.0\EucledeanGCD.csprojAssemblyReference.cache
+E:\.NET\EucledeanGCD\obj\Debug\net5.0\EucledeanGCD.GeneratedMSBuildEditorConfig.editorconfig
+E:\.NET\EucledeanGCD\obj\Debug\net5.0\EucledeanGCD.AssemblyInfoInputs.cache
+E:\.NET\EucledeanGCD\obj\Debug\net5.0\EucledeanGCD.AssemblyInfo.cs
+E:\.NET\EucledeanGCD\obj\Debug\net5.0\EucledeanGCD.csproj.CoreCompileInputs.cache
+E:\.NET\EucledeanGCD\bin\Debug\net5.0\EucledeanGCD.exe
+E:\.NET\EucledeanGCD\bin\Debug\net5.0\EucledeanGCD.deps.json
+E:\.NET\EucledeanGCD\bin\Debug\net5.0\EucledeanGCD.runtimeconfig.json
+E:\.NET\EucledeanGCD\bin\Debug\net5.0\EucledeanGCD.runtimeconfig.dev.json
+E:\.NET\EucledeanGCD\bin\Debug\net5.0\EucledeanGCD.dll
+E:\.NET\EucledeanGCD\bin\Debug\net5.0\ref\EucledeanGCD.dll
+E:\.NET\EucledeanGCD\bin\Debug\net5.0\EucledeanGCD.pdb
+E:\.NET\EucledeanGCD\obj\Debug\net5.0\EucledeanGCD.dll
+E:\.NET\EucledeanGCD\obj\Debug\net5.0\ref\EucledeanGCD.dll
+E:\.NET\EucledeanGCD\obj\Debug\net5.0\EucledeanGCD.pdb
+E:\.NET\EucledeanGCD\obj\Debug\net5.0\EucledeanGCD.genruntimeconfig.cache
