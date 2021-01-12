@@ -4,6 +4,11 @@ namespace BinarySearch
 {
     class Program
     {
+
+        // The reource should be sorted to perform Binary Search
+        // The time complexity of this algorithm is better than the Linear search (O(n))
+        // which is O(logn), Meanwhile the best case scenario for this approach is O(1)
+        // when our desired key is in the middle of the resource
         static void Main(string[] args)
         {
             Console.WriteLine("Enter the key you wanna search for :");
@@ -17,7 +22,9 @@ namespace BinarySearch
            if (result==-1){
            Console.WriteLine("Your key wasn't found in the resource") ;
            }
+           else{
             Console.WriteLine($"your key was found at {result}");
+           }
         }
 
         static int BinarySearch(int[] array,int key,int l,int r){
