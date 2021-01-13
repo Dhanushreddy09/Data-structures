@@ -1,0 +1,16 @@
+E:\.NET\Linearsearch\obj\Debug\net5.0\Linearsearch.csprojAssemblyReference.cache
+E:\.NET\Linearsearch\obj\Debug\net5.0\Linearsearch.GeneratedMSBuildEditorConfig.editorconfig
+E:\.NET\Linearsearch\obj\Debug\net5.0\Linearsearch.AssemblyInfoInputs.cache
+E:\.NET\Linearsearch\obj\Debug\net5.0\Linearsearch.AssemblyInfo.cs
+E:\.NET\Linearsearch\obj\Debug\net5.0\Linearsearch.csproj.CoreCompileInputs.cache
+E:\.NET\Linearsearch\bin\Debug\net5.0\Linearsearch.exe
+E:\.NET\Linearsearch\bin\Debug\net5.0\Linearsearch.deps.json
+E:\.NET\Linearsearch\bin\Debug\net5.0\Linearsearch.runtimeconfig.json
+E:\.NET\Linearsearch\bin\Debug\net5.0\Linearsearch.runtimeconfig.dev.json
+E:\.NET\Linearsearch\bin\Debug\net5.0\Linearsearch.dll
+E:\.NET\Linearsearch\bin\Debug\net5.0\ref\Linearsearch.dll
+E:\.NET\Linearsearch\bin\Debug\net5.0\Linearsearch.pdb
+E:\.NET\Linearsearch\obj\Debug\net5.0\Linearsearch.dll
+E:\.NET\Linearsearch\obj\Debug\net5.0\ref\Linearsearch.dll
+E:\.NET\Linearsearch\obj\Debug\net5.0\Linearsearch.pdb
+E:\.NET\Linearsearch\obj\Debug\net5.0\Linearsearch.genruntimeconfig.cache
