@@ -1,0 +1,16 @@
+E:\.NET\BubbleSort\obj\Debug\net5.0\BubbleSort.csprojAssemblyReference.cache
+E:\.NET\BubbleSort\obj\Debug\net5.0\BubbleSort.GeneratedMSBuildEditorConfig.editorconfig
+E:\.NET\BubbleSort\obj\Debug\net5.0\BubbleSort.AssemblyInfoInputs.cache
+E:\.NET\BubbleSort\obj\Debug\net5.0\BubbleSort.AssemblyInfo.cs
+E:\.NET\BubbleSort\obj\Debug\net5.0\BubbleSort.csproj.CoreCompileInputs.cache
+E:\.NET\BubbleSort\bin\Debug\net5.0\BubbleSort.exe
+E:\.NET\BubbleSort\bin\Debug\net5.0\BubbleSort.deps.json
+E:\.NET\BubbleSort\bin\Debug\net5.0\BubbleSort.runtimeconfig.json
+E:\.NET\BubbleSort\bin\Debug\net5.0\BubbleSort.runtimeconfig.dev.json
+E:\.NET\BubbleSort\bin\Debug\net5.0\BubbleSort.dll
+E:\.NET\BubbleSort\bin\Debug\net5.0\ref\BubbleSort.dll
+E:\.NET\BubbleSort\bin\Debug\net5.0\BubbleSort.pdb
+E:\.NET\BubbleSort\obj\Debug\net5.0\BubbleSort.dll
+E:\.NET\BubbleSort\obj\Debug\net5.0\ref\BubbleSort.dll
+E:\.NET\BubbleSort\obj\Debug\net5.0\BubbleSort.pdb
+E:\.NET\BubbleSort\obj\Debug\net5.0\BubbleSort.genruntimeconfig.cache
