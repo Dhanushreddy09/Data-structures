@@ -4,6 +4,14 @@ Created on Sun Feb 14 21:26:50 2021
 
 @author: pothu
 """
+#One major disadantage of open addressing collision resolution techniques is
+#data clustering, if load factor becomes greater than 0.5 it takes lot of time
+#and comparisions to find a empty space for data while in insertion
+
+#another disadvantage could be while in deletion,when we try to delete an element
+#you have to go through lot of comparisions to get to the exact element cause 
+#there could be lot of elements stored under same hash value and you have to move
+#through elements 
 
 class HashTable(object):
     def __init__(self):
